@@ -1,0 +1,62 @@
+﻿<Window x:Class="CurvatureCurvesLines.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CurvatureCurvesLines"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <RadialGradientBrush x:Key="blueFatin" RadiusY="0.573" RadiusX="0.667" GradientOrigin="1.01,1.035">
+            <GradientStop Color="#FF06183C" Offset="0.81"/>
+            <GradientStop Color="#FF0D60A3"/>
+        </RadialGradientBrush>
+        <LinearGradientBrush x:Key="OliveYellowGradientBrush" 
+    			StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="DarkOliveGreen"   Offset="0" />
+            <GradientStop Color="Bisque" Offset="0.5" />
+            <GradientStop Color="DarkOliveGreen" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Resources>
+    <DockPanel LastChildFill="True" Background="{StaticResource blueFatin}">
+        <Border x:Name="borderTop" DockPanel.Dock="Top" HorizontalAlignment="Stretch" Height="auto" BorderBrush="{StaticResource OliveYellowGradientBrush}"     BorderThickness="2" CornerRadius="5,5,5,5" Margin="2" >
+            <StackPanel  Background="{StaticResource blueFatin}">
+                <TextBlock Text=" University of Technology" Margin="1" Foreground="{StaticResource OliveYellowGradientBrush}" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+                <TextBlock Text=" Fatin Sadiq Alkinani" Margin="1" Foreground="{StaticResource OliveYellowGradientBrush}" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Border>
+        <Border x:Name="borderRight" DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+            <StackPanel     Background="{StaticResource blueFatin}"  Orientation="Horizontal" Width="auto"  FlowDirection="RightToLeft" >
+                <Button x:Name="btnProceed" Content="Proceed" Margin="2" FontWeight="ExtraBold" FontSize="16" Click="btnProceed_Click" ></Button>
+            </StackPanel>
+
+
+        </Border>
+        <Border x:Name="borderCenter"  Margin="2" DockPanel.Dock="Left" Height="auto" HorizontalAlignment="Stretch"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+            <WrapPanel x:Name="mainArea" Background="{StaticResource blueFatin}">
+                <Border  DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                    <StackPanel     Background="{StaticResource blueFatin}"   Width="auto"  FlowDirection="RightToLeft" >
+                        <TextBlock Text="Original Image" Foreground="{StaticResource OliveYellowGradientBrush}"/>
+                        <Image Name="original"></Image>
+                    </StackPanel>
+                    </Border>
+                <Border  DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                    <StackPanel     Background="{StaticResource blueFatin}"   Width="auto"  FlowDirection="RightToLeft" >
+                        <TextBlock Text="Canny" Foreground="{StaticResource OliveYellowGradientBrush}"/>
+                        <Image Name="canny"></Image>
+                    </StackPanel>
+                </Border>
+                <Border  DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                    <StackPanel     Background="{StaticResource blueFatin}"   Width="auto"  FlowDirection="RightToLeft" >
+                        <TextBlock Text="File Plot" Foreground="{StaticResource OliveYellowGradientBrush}"/>
+                        <Image Name="filePlot"></Image>
+                    </StackPanel>
+                </Border>
+
+
+
+            </WrapPanel>
+        </Border>
+    </DockPanel>
+</Window>
+

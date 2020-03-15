@@ -1,0 +1,106 @@
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\CurvatureCurvesLines.exe
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\CurvatureCurvesLines.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.exe
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\App.baml
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_Content.g.cs
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\concrt140.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\cublas64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\cudart64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\cufft64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\cvextern.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\msvcp140.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppc64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppial64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppicc64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppicom64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppidei64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppif64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppig64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppim64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppist64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppisu64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\nppitc64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\npps64_90.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_aruco330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_bgsegm330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_bioinspired330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_calib3d330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_ccalib330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_core330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudaarithm330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudabgsegm330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudacodec330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudafeatures2d330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudafilters330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudaimgproc330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudalegacy330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudaobjdetect330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudaoptflow330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudastereo330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudawarping330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_cudev330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_datasets330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_dnn330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_dpm330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_face330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_features2d330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_flann330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_fuzzy330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_highgui330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_imgcodecs330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_imgproc330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_img_hash330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_line_descriptor330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_ml330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_objdetect330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_optflow330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_phase_unwrapping330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_photo330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_plot330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_rgbd330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_saliency330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_shape330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_stereo330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_stitching330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_structured_light330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_superres330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_surface_matching330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_text330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_tracking330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_video330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_videoio330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_videostab330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_viz330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_xfeatures2d330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_ximgproc330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_xobjdetect330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\opencv_xphoto330.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\vcruntime140.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\Emgu.CV.World.dll
+C:\Users\asus\documents\visual studio 2015\Projects\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\Emgu.CV.World.xml
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.exe
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.pdb
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\cvextern.dll
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\CurvatureCurvesLines.exe
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\bin\Debug\CurvatureCurvesLines.pdb
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_Content.g.cs
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.g.resources
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\CurvatureCurvesLines\CurvatureCurvesLines\obj\Debug\CurvatureCurvesLines.csprojResolveAssemblyReference.cache
